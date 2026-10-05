@@ -1,4 +1,4 @@
-## Hello, My Name Is Jomi Bamikole 👋
+## Hi, I'm Jomi Bamikole 👋
 
 <!--
 **JomiBamikole/JomiBamikole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
